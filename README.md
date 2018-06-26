@@ -9,7 +9,7 @@ Program ini adalah proyek Tugas Akhir saya pada tahun 2011. Program ini bertujua
 
 Terdiri dari 10 baris
 Baris 1 - Tingkat kesulitan soal
-Baris 2 s.d. 9 - Soal Sudoku dengan 9 Kolom, angka bantuan diisi 1-9 sementara, angka 0 menunjukkan **Angka Soal** atau kotak kosong yang harus diisi nilainya. </br>
+Baris 2 s.d. 9 - Soal Sudoku dengan 9 Kolom, **Angka Soal** yang merupakan angka awalan puzzle, diisi 1-9 sementara, angka 0 menunjukkan kotak kosong yang harus diisi nilainya. </br>
 Program dapat menerima lebih dari satu soal dalam satu file teks yang dibatasi dengan satu baris kosong. User kemudian dapat memilih tingkat kesulitan yang secara acak akan dipilih program setelah sukses membaca file teks soal. </br>
 Contoh:
 
