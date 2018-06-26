@@ -1,0 +1,61 @@
+C:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\bin\Release\Sudoku.exe
+C:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\bin\Release\Sudoku.pdb
+C:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\bin\Release\Sudoku.xml
+C:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\ResolveAssemblyReference.cache
+C:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.Form1.resources
+C:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.Resources.resources
+C:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.Pengaturan.resources
+C:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.vbproj.GenerateResource.Cache
+C:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.exe
+C:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.xml
+C:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.pdb
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.exe
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.xml
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.pdb
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\bin\Release\Sudoku.exe
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\bin\Release\Sudoku.pdb
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\bin\Release\Sudoku.xml
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\ResolveAssemblyReference.cache
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.Form1.resources
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.Resources.resources
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.Pengaturan.resources
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.vbproj.GenerateResource.Cache
+C:\Program VB\Sudoku\Sudoku\obj\Release\ResolveAssemblyReference.cache
+C:\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.Form1.resources
+C:\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.Resources.resources
+C:\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.Pengaturan.resources
+C:\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.vbproj.GenerateResource.Cache
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.Form2.resources
+C:\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.exe
+C:\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.xml
+C:\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.pdb
+C:\Program VB\Sudoku\Sudoku\bin\Release\Sudoku.exe
+C:\Program VB\Sudoku\Sudoku\bin\Release\Sudoku.pdb
+C:\Program VB\Sudoku\Sudoku\bin\Release\Sudoku.xml
+C:\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.Form_BuatSoal.resources
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\bin\Release\Sudoku.exe
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\bin\Release\Sudoku.pdb
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\bin\Release\Sudoku.xml
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Release\ResolveAssemblyReference.cache
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.Form1.resources
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.Form_BuatSoal.resources
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.Resources.resources
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.Pengaturan.resources
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.vbproj.GenerateResource.Cache
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.exe
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.xml
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.pdb
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Release\Sudoku.SimpanSoal.resources
+C:\Users\TOSHIBA\Desktop\Sudoku\Sudoku\Sudoku\obj\Release\Sudoku.exe
+C:\Users\TOSHIBA\Desktop\Sudoku\Sudoku\Sudoku\obj\Release\Sudoku.xml
+C:\Users\TOSHIBA\Desktop\Sudoku\Sudoku\Sudoku\obj\Release\Sudoku.pdb
+C:\Users\TOSHIBA\Desktop\Sudoku\Sudoku\Sudoku\bin\Release\Sudoku.exe
+C:\Users\TOSHIBA\Desktop\Sudoku\Sudoku\Sudoku\bin\Release\Sudoku.pdb
+C:\Users\TOSHIBA\Desktop\Sudoku\Sudoku\Sudoku\bin\Release\Sudoku.xml
+C:\Users\TOSHIBA\Desktop\Sudoku\Sudoku\Sudoku\obj\Release\ResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Sudoku\Sudoku\Sudoku\obj\Release\Sudoku.Form1.resources
+C:\Users\TOSHIBA\Desktop\Sudoku\Sudoku\Sudoku\obj\Release\Sudoku.Form_BuatSoal.resources
+C:\Users\TOSHIBA\Desktop\Sudoku\Sudoku\Sudoku\obj\Release\Sudoku.Resources.resources
+C:\Users\TOSHIBA\Desktop\Sudoku\Sudoku\Sudoku\obj\Release\Sudoku.Pengaturan.resources
+C:\Users\TOSHIBA\Desktop\Sudoku\Sudoku\Sudoku\obj\Release\Sudoku.SimpanSoal.resources
+C:\Users\TOSHIBA\Desktop\Sudoku\Sudoku\Sudoku\obj\Release\Sudoku.vbproj.GenerateResource.Cache

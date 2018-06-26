@@ -1,0 +1,49 @@
+H:\Penting\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+H:\Penting\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.xml
+H:\Penting\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+H:\Penting\Tugas Akhir\Program VB\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+H:\Penting\Tugas Akhir\Program VB\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+H:\Penting\Tugas Akhir\Program VB\Sudoku\Sudoku\bin\Debug\Sudoku.xml
+H:\Penting\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\ResolveAssemblyReference.cache
+H:\Penting\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+H:\Penting\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.Resources.resources
+H:\Penting\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.Pengaturan.resources
+H:\Penting\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.vbproj.GenerateResource.Cache
+C:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.xml
+C:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\bin\Debug\Sudoku.xml
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.Resources.resources
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.Pengaturan.resources
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.vbproj.GenerateResource.Cache
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.xml
+D:\My Documents\Kuliah Only\Tugas Akhir\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Program VB\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Program VB\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Program VB\Sudoku\Sudoku\bin\Debug\Sudoku.xml
+C:\Program VB\Sudoku\Sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+C:\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.Resources.resources
+C:\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.Pengaturan.resources
+C:\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.vbproj.GenerateResource.Cache
+C:\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.xml
+C:\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.Form_BuatSoal.resources
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.xml
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\bin\Debug\Sudoku.xml
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Debug\ResolveAssemblyReference.cache
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.Form_BuatSoal.resources
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.Resources.resources
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.Pengaturan.resources
+D:\Data Bayu\Bayu Doc\TA BAckup\Program VB\Sudoku\Sudoku\obj\Debug\Sudoku.vbproj.GenerateResource.Cache

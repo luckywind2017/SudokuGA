@@ -1,0 +1,11 @@
+bin\Debug\Sudoku.exe
+bin\Debug\Sudoku.pdb
+bin\Debug\Sudoku.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Sudoku.Form1.resources
+obj\Debug\Sudoku.Resources.resources
+obj\Debug\Sudoku.Pengaturan.resources
+obj\Debug\Sudoku.vbproj.GenerateResource.Cache
+obj\Debug\Sudoku.exe
+obj\Debug\Sudoku.xml
+obj\Debug\Sudoku.pdb
