@@ -3,7 +3,7 @@
 
 ![Screenshot](https://github.com/luckywind2017/SudokuGA/blob/master/Screenshot/Form.JPG?raw=true "Screenshot")
 
-Ini ada proyek Tugas Akhir saya pada tahun 2011. Program ini bertujuan untuk menyelesaikan puzzle Sudoku menggunakan Algoritma Genetika. File teks berisikan puzzle Sudoku dapat dimasukkan ke dalam program. User dapat memainkan Sudoku atau memaksa program untuk mencari mengisi angka-angka yang kosong dengan benar.
+Program ini adalah proyek Tugas Akhir saya pada tahun 2011. Program ini bertujuan untuk menyelesaikan puzzle Sudoku menggunakan Algoritma Genetika. File teks berisikan puzzle Sudoku dapat dimasukkan ke dalam program. User dapat memainkan Sudoku atau memaksa program untuk mencari mengisi angka-angka yang kosong dengan benar.
 
 ## Format Text File:
 
